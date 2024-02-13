@@ -4,13 +4,6 @@ Circle Avater SVG
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+https://stackoverflow.com/questions/73499146/how-make-circular-network-svg-with-flutter
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/coderodilov/flutter_circle_avatar/assets/91076403/9971a4e4-1930-4ae7-be6f-4e9a4a2d83d5)
